@@ -1,0 +1,25 @@
+body{
+    font-family: georgia;
+}
+#tak{
+    display: flex;
+}
+#le{
+    background-color: maroon;
+    color: white;
+    height: 600px;
+    width: 30%;
+    flex-direction: row;
+}
+#pr{
+    background-color: maroon;
+    color: white;
+    height: 600px;
+    width: 70%;
+    overflow: scroll;
+    flex-direction: row;
+}
+footer{
+    background-color: dimgray;
+    color: white;
+}
